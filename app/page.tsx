@@ -180,8 +180,8 @@ export default function Home() {
               { id: 1, image: "uniteliving.png", title: "Uniteliving" },
               { id: 2, image: "payrun.png", title: "Payrun" },
               { id: 3, image: "easydesk.png", title: "Easydesk" },
-              { id: 4, image: "uniteliving.png", title: "Uniteliving" },
-              { id: 5, image: "uniteliving.png", title: "Uniteliving" },
+              { id: 4, image: "swivflow2.png", title: "Swivflow" },
+              { id: 5, image: "swivflow3.png", title: "Swivflow" },
               { id: 6, image: "uniteliving.png", title: "Uniteliving" },
             ].map((project) => (
               <Card
